@@ -36,7 +36,7 @@ def latest_earnings():
     del date_links['Last Weekend']
 
     earnings = soup.findAll('td')
-    for i in range(0,len(earnings), 9):
+    for i in range(2,len(earnings), 9):
         rank = earnings[i].contents[0]
         last_rank = earnings[i+1].contents[0]
         rating = earnings[i+2].contents[0]
