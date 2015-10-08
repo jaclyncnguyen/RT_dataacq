@@ -62,7 +62,7 @@ def gross_earning(movie_names, date_links):
         rotten2 = feedparser.parse(new_url)
         soup = BeautifulSoup(rotten2['feed']['summary'])
         gross_earnings = soup.findAll('td')
-        for i in range(0, len(gross_earnings), 5):
+        for i in range(2, len(gross_earnings), 5):
             rank = gross_earnings[i].contents[0]
             if re.match(r'^\d+$', str(rank)) is None:
                 continue
