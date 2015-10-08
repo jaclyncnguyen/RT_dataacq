@@ -41,17 +41,36 @@ def latest_earnings():
         last_rank = earnings[i+1].contents[0]
         rating = earnings[i+2].contents[0]
         try:
-            rating2 = rating.find('span',{'class':'tMeterScore'}).contents[0]
+            rating2 = (rating.find('span',{'class':'tMeterScore'}).contents[0]).replace('%', '')
+            rating2 = int(rating2)
         except:
             continue
         name = earnings[i +3].find('a',{'target':'_top'}).contents[0]
         movie_url = earnings[i+3].a['href']
         movie_names.add(name)
         weeks = (earnings[i+4]).contents[0]
-        wkend_gross = (earnings[i+5]).contents[0]
-        total_gross = (earnings[i+6]).contents[0]
-        theat_avg = (earnings[i+7]).contents[0]
-        num_theat = (earnings[i+8]).contents[0]
+        wkend_gross = ((earnings[i+5]).contents[0]).replace('$','')
+        if wkend_gross.find('M')> 0:
+            wkend_gross = (wkend_gross).replace('M', '')
+            wkend_gross = float(wkend_gross)
+        else:
+            wkend_gross = (wkend_gross).replace('k', '')
+            wkend_gross = round(float(wkend_gross)/1000,5)
+        total_gross = ((earnings[i+6]).contents[0]).replace('$','')
+        if total_gross.find('M')> 0:
+            total_gross = (total_gross).replace('M', '')
+            total_gross = float(total_gross)
+        else:
+            total_gross = (total_gross).replace('k', '')
+            total_gross = round(float(total_gross)/1000,5)
+        theat_avg = ((earnings[i+7]).contents[0]).replace('$','')
+        if theat_avg.find('M') > 0:
+            theat_avg = (theat_avg).replace('M', '')
+            theat_avg = float(theat_avg)
+        else:
+            theat_avg = (theat_avg).replace('k', '')
+            theat_avg = round(float(theat_avg)/1000,5)
+        num_theat = int((earnings[i+8]).contents[0])
 
         write_output(rank, last_rank, rating2, name, weeks, wkend_gross, total_gross, theat_avg, num_theat)
     return movie_names, date_links
@@ -68,7 +87,8 @@ def gross_earning(movie_names, date_links):
                 continue
             rating = gross_earnings[i+1].contents[0]
             try:
-                rating2 = rating.find('span',{'class':'tMeterScore'}).contents[0]
+                rating2 = (rating.find('span',{'class':'tMeterScore'}).contents[0]).replace('%', '')
+                rating2 = int(rating2)
             except:
                 continue
             try:
@@ -77,7 +97,14 @@ def gross_earning(movie_names, date_links):
                 movie_names.add(name)
             except:
                 continue
-            wkend_gross = (gross_earnings[i+4]).contents[0]
+            wkend_gross = ((gross_earnings[i+4]).contents[0]).replace('$', '')
+            if wkend_gross.find('M')> 0:
+                wkend_gross = (wkend_gross).replace('M', '')
+                wkend_gross = float(wkend_gross)
+            else:
+                wkend_gross = (wkend_gross).replace('k', '')
+                wkend_gross = round(float(wkend_gross)/1000,5)
+
             weeks = (gross_earnings[i+3]).contents[0]
             write_allearnings(link, rank, rating2, name, weeks, wkend_gross)
     return movie_names
