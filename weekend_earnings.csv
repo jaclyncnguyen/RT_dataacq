@@ -1,5 +1,5 @@
 Jul 24-Jul 26,1,80,Ant-Man,2,24.9
-Jul 24-Jul 26,2,17,Pixels,1,24.0
+Jul 24-Jul 26,2,17,Pixels,1,24
 Jul 24-Jul 26,3,54,Minions,3,22.9
 Jul 24-Jul 26,4,86,Trainwreck,2,17.3
 Jul 24-Jul 26,5,59,Southpaw,1,16.7
@@ -10,7 +10,7 @@ Jul 24-Jul 26,9,87,Mr. Holmes,2,2.9
 Jul 24-Jul 26,10,26,Terminator Genisys,5,2.4
 Jul 24-Jul 26,11,62,Magic Mike XXL,5,1.9
 Jul 24-Jul 26,13,16,The Gallows,3,1.2
-Jul 24-Jul 26,14,46,Ted 2,5,1.0
+Jul 24-Jul 26,14,46,Ted 2,5,1
 Jul 24-Jul 26,16,13,The Vatican Tapes,1,0.8
 Jul 24-Jul 26,17,35,Max,5,0.8
 Jul 24-Jul 26,18,93,Spy,8,0.8
@@ -23,7 +23,7 @@ Jul 24-Jul 26,24,42,Irrational Man,2,0.3
 Jul 24-Jul 26,25,50,Tomorrowland,10,0.2
 Jul 24-Jul 26,26,45,Home,19,0.1
 Jul 24-Jul 26,27,89,Love &amp; Mercy,8,0.1
-Jul 24-Jul 26,28,87,Dope,--,0.1
+Jul 24-Jul 26,28,87,Dope,,0.1
 Jul 24-Jul 26,29,67,Pitch Perfect 2,11,0.1
 Jul 24-Jul 26,30,94,I'll See You in My Dreams,11,0.1
 Jul 24-Jul 26,31,80,Infinitely Polar Bear,6,0.1
@@ -55,8 +55,8 @@ Aug 21-Aug 23,7,93,The Gift,3,4.3
 Aug 21-Aug 23,8,80,Ant-Man,6,4.1
 Aug 21-Aug 23,9,54,Minions,7,3.8
 Aug 21-Aug 23,10,9,Fantastic Four,3,3.7
-Aug 21-Aug 23,11,27,Vacation,5,3.0
-Aug 21-Aug 23,12,64,Ricki And The Flash,3,3.0
+Aug 21-Aug 23,11,27,Vacation,5,3
+Aug 21-Aug 23,12,64,Ricki And The Flash,3,3
 Aug 21-Aug 23,13,86,Trainwreck,6,2.5
 Aug 21-Aug 23,14,17,Pixels,5,2.1
 Aug 21-Aug 23,15,98,Inside Out,10,1.6
@@ -124,7 +124,7 @@ Jul 31-Aug 02,28,85,The Stanford Prison Experiment,3,0.1
 Jul 31-Aug 02,29,80,Infinitely Polar Bear,7,0.1
 Jul 31-Aug 02,30,20,Self/less,4,0.0963
 Jul 31-Aug 02,31,89,Love &amp; Mercy,9,0.0863
-Jul 31-Aug 02,32,87,Dope,--,0.0733
+Jul 31-Aug 02,32,87,Dope,,0.0733
 Jul 31-Aug 02,33,94,I'll See You in My Dreams,12,0.0673
 Jul 31-Aug 02,34,95,Tangerine,4,0.0645
 Jul 31-Aug 02,35,59,Insidious: Chapter 3,9,0.0629
@@ -154,9 +154,9 @@ Sep 18-Sep 20,9,90,Straight Outta Compton,6,1.9
 Sep 18-Sep 20,10,93,Grandma,5,1.5
 Sep 18-Sep 20,11,24,Captive,1,1.4
 Sep 18-Sep 20,12,69,Un gallo con muchos huevos,3,1.1
-Sep 18-Sep 20,13,25,90 Minutes In Heaven,2,1.0
-Sep 18-Sep 20,14,45,No Escape,5,1.0
-Sep 18-Sep 20,15,54,Minions,11,1.0
+Sep 18-Sep 20,13,25,90 Minutes In Heaven,2,1
+Sep 18-Sep 20,14,45,No Escape,5,1
+Sep 18-Sep 20,15,54,Minions,11,1
 Sep 18-Sep 20,16,98,Inside Out,14,0.9
 Sep 18-Sep 20,17,80,Ant-Man,10,0.9
 Sep 18-Sep 20,18,67,The Man From U.N.C.L.E.,6,0.8
@@ -166,14 +166,14 @@ Sep 18-Sep 20,21,71,Jurassic World,15,0.6
 Sep 18-Sep 20,22,67,Learning To Drive,5,0.5
 Sep 18-Sep 20,23,93,The Gift,7,0.5
 Sep 18-Sep 20,24,86,Trainwreck,10,0.5
-Sep 18-Sep 20,25,93,Sicario,--,0.4
+Sep 18-Sep 20,25,93,Sicario,,0.4
 Sep 18-Sep 20,26,13,Sinister 2,5,0.4
 Sep 18-Sep 20,27,80,Veteran,2,0.3
 Sep 18-Sep 20,28,27,Vacation,9,0.3
 Sep 18-Sep 20,29,7,Hitman: Agent 47,5,0.3
 Sep 18-Sep 20,30,99,Shaun the Sheep,8,0.3
 Sep 18-Sep 20,32,9,Fantastic Four,7,0.2
-Sep 18-Sep 20,34,72,Pawn Sacrifice,--,0.2
+Sep 18-Sep 20,34,72,Pawn Sacrifice,,0.2
 Sep 18-Sep 20,35,92,Meru,6,0.2
 Sep 18-Sep 20,36,99,Phoenix,9,0.2
 Sep 18-Sep 20,37,84,Meet The Patels,2,0.2
@@ -191,15 +191,15 @@ Sep 18-Sep 20,49,45,American Ultra,5,0.0557
 Sep 18-Sep 20,50,92,The Black Panthers: Vanguard Of The Revolution,4,0.047
 Jul 03-Jul 05,1,98,Inside Out,3,29.8
 Jul 03-Jul 05,2,71,Jurassic World,4,29.2
-Jul 03-Jul 05,3,26,Terminator Genisys,2,27.0
+Jul 03-Jul 05,3,26,Terminator Genisys,2,27
 Jul 03-Jul 05,4,62,Magic Mike XXL,2,12.9
 Jul 03-Jul 05,5,46,Ted 2,2,11.2
 Jul 03-Jul 05,6,35,Max,2,6.6
 Jul 03-Jul 05,7,93,Spy,5,5.1
 Jul 03-Jul 05,8,50,San Andreas,6,2.8
 Jul 03-Jul 05,9,81,Me and Earl and the Dying Girl,4,1.2
-Jul 03-Jul 05,10,87,Dope,--,1.1
-Jul 03-Jul 05,11,97,Mad Max: Fury Road,8,1.0
+Jul 03-Jul 05,10,87,Dope,,1.1
+Jul 03-Jul 05,11,97,Mad Max: Fury Road,8,1
 Jul 03-Jul 05,12,74,Avengers: Age of Ultron,10,0.9
 Jul 03-Jul 05,13,89,Love &amp; Mercy,5,0.7
 Jul 03-Jul 05,14,67,Pitch Perfect 2,8,0.6
@@ -248,7 +248,7 @@ Sep 04-Sep 06,7,67,The Man From U.N.C.L.E.,4,3.5
 Sep 04-Sep 06,8,13,Sinister 2,3,3.5
 Sep 04-Sep 06,9,69,Un gallo con muchos huevos,1,3.4
 Sep 04-Sep 06,10,98,Inside Out,12,3.2
-Sep 04-Sep 06,11,54,Minions,9,3.0
+Sep 04-Sep 06,11,54,Minions,9,3
 Sep 04-Sep 06,12,80,Ant-Man,8,2.9
 Sep 04-Sep 06,13,71,Jurassic World,13,2.7
 Sep 04-Sep 06,14,93,The Gift,5,2.7
@@ -258,8 +258,8 @@ Sep 04-Sep 06,17,86,Trainwreck,8,1.5
 Sep 04-Sep 06,18,45,American Ultra,3,1.3
 Sep 04-Sep 06,19,27,Vacation,7,1.2
 Sep 04-Sep 06,20,9,Fantastic Four,5,1.1
-Sep 04-Sep 06,21,59,Southpaw,7,1.0
-Sep 04-Sep 06,22,64,Ricki And The Flash,5,1.0
+Sep 04-Sep 06,21,59,Southpaw,7,1
+Sep 04-Sep 06,22,64,Ricki And The Flash,5,1
 Sep 04-Sep 06,23,99,Shaun the Sheep,6,0.9
 Sep 04-Sep 06,25,41,We Are Your Friends,2,0.6
 Sep 04-Sep 06,26,81,Mistress America,4,0.6
@@ -289,14 +289,14 @@ Sep 04-Sep 06,50,16,The Gallows,9,0.0465
 Aug 07-Aug 09,1,92,Mission: Impossible Rogue Nation,2,28.5
 Aug 07-Aug 09,2,9,Fantastic Four,1,25.7
 Aug 07-Aug 09,3,93,The Gift,1,11.9
-Aug 07-Aug 09,4,27,Vacation,3,9.0
+Aug 07-Aug 09,4,27,Vacation,3,9
 Aug 07-Aug 09,5,80,Ant-Man,4,7.9
 Aug 07-Aug 09,6,54,Minions,5,7.4
 Aug 07-Aug 09,7,64,Ricki And The Flash,1,6.6
 Aug 07-Aug 09,8,86,Trainwreck,4,6.1
 Aug 07-Aug 09,9,17,Pixels,3,5.4
 Aug 07-Aug 09,10,59,Southpaw,3,4.7
-Aug 07-Aug 09,11,99,Shaun the Sheep,2,4.0
+Aug 07-Aug 09,11,99,Shaun the Sheep,2,4
 Aug 07-Aug 09,12,98,Inside Out,8,2.7
 Aug 07-Aug 09,13,71,Jurassic World,9,1.9
 Aug 07-Aug 09,14,75,Dragon Ball Z: Resurrection 'F',2,1.8
@@ -329,7 +329,7 @@ Aug 07-Aug 09,41,97,Listen To Me Marlon,3,0.0422
 Aug 07-Aug 09,42,86,Hubble 3D,282,0.0412
 Aug 07-Aug 09,43,20,Self/less,5,0.0411
 Aug 07-Aug 09,44,80,Infinitely Polar Bear,8,0.0386
-Aug 07-Aug 09,45,87,Dope,--,0.0365
+Aug 07-Aug 09,45,87,Dope,,0.0365
 Aug 07-Aug 09,47,13,The Vatican Tapes,3,0.0332
 Aug 07-Aug 09,48,59,Insidious: Chapter 3,10,0.0302
 Aug 07-Aug 09,49,81,Me and Earl and the Dying Girl,9,0.0286
@@ -347,7 +347,7 @@ Aug 14-Aug 16,10,86,Trainwreck,5,3.8
 Aug 14-Aug 16,11,17,Pixels,4,3.4
 Aug 14-Aug 16,12,99,Shaun the Sheep,3,2.9
 Aug 14-Aug 16,13,59,Southpaw,4,2.4
-Aug 14-Aug 16,14,98,Inside Out,9,2.0
+Aug 14-Aug 16,14,98,Inside Out,9,2
 Aug 14-Aug 16,15,71,Jurassic World,10,1.2
 Aug 14-Aug 16,16,87,Mr. Holmes,5,0.8
 Aug 14-Aug 16,17,55,Paper Towns,4,0.6
@@ -387,14 +387,14 @@ Sep 25-Sep 27,1,48,Hotel Transylvania 2,1,48.5
 Sep 25-Sep 27,2,60,The Intern,1,17.7
 Sep 25-Sep 27,3,50,Maze Runner: The Scorch Trials,2,14.3
 Sep 25-Sep 27,4,72,Everest,2,13.2
-Sep 25-Sep 27,5,76,Black Mass,2,11.0
+Sep 25-Sep 27,5,76,Black Mass,2,11
 Sep 25-Sep 27,6,63,The Visit,3,6.7
 Sep 25-Sep 27,7,19,The Perfect Guy,3,4.8
 Sep 25-Sep 27,8,37,War Room,5,4.2
 Sep 25-Sep 27,9,38,The Green Inferno,1,3.5
-Sep 25-Sep 27,10,93,Sicario,--,1.7
+Sep 25-Sep 27,10,93,Sicario,,1.7
 Sep 25-Sep 27,11,45,A Walk In The Woods,5,1.1
-Sep 25-Sep 27,12,72,Pawn Sacrifice,1,1.0
+Sep 25-Sep 27,12,72,Pawn Sacrifice,1,1
 Sep 25-Sep 27,13,92,Mission: Impossible Rogue Nation,9,0.9
 Sep 25-Sep 27,14,17,Pixels,10,0.8
 Sep 25-Sep 27,15,93,Grandma,6,0.8
@@ -444,7 +444,7 @@ Jul 10-Jul 12,11,93,Spy,6,3.1
 Jul 10-Jul 12,12,97,Amy,2,1.8
 Jul 10-Jul 12,13,50,San Andreas,7,1.2
 Jul 10-Jul 12,14,81,Me and Earl and the Dying Girl,5,0.7
-Jul 10-Jul 12,15,87,Dope,--,0.6
+Jul 10-Jul 12,15,87,Dope,,0.6
 Jul 10-Jul 12,16,97,Mad Max: Fury Road,9,0.6
 Jul 10-Jul 12,17,74,Avengers: Age of Ultron,11,0.5
 Jul 10-Jul 12,18,89,Love &amp; Mercy,6,0.4
@@ -485,8 +485,8 @@ Aug 28-Aug 30,5,13,Sinister 2,2,4.7
 Aug 28-Aug 30,6,67,The Man From U.N.C.L.E.,3,4.4
 Aug 28-Aug 30,7,7,Hitman: Agent 47,2,4.2
 Aug 28-Aug 30,8,80,Ant-Man,7,3.1
-Aug 28-Aug 30,9,71,Jurassic World,12,3.0
-Aug 28-Aug 30,10,93,The Gift,4,3.0
+Aug 28-Aug 30,9,71,Jurassic World,12,3
+Aug 28-Aug 30,10,93,The Gift,4,3
 Aug 28-Aug 30,11,54,Minions,8,2.9
 Aug 28-Aug 30,12,45,American Ultra,2,2.9
 Aug 28-Aug 30,13,9,Fantastic Four,4,1.8
@@ -533,8 +533,8 @@ Sep 11-Sep 13,5,92,Mission: Impossible Rogue Nation,7,4.1
 Sep 11-Sep 13,6,90,Straight Outta Compton,5,3.9
 Sep 11-Sep 13,7,45,No Escape,4,2.9
 Sep 11-Sep 13,8,16,The Transporter Refueled,2,2.8
-Sep 11-Sep 13,9,25,90 Minutes In Heaven,1,2.0
-Sep 11-Sep 13,10,69,Un gallo con muchos huevos,2,2.0
+Sep 11-Sep 13,9,25,90 Minutes In Heaven,1,2
+Sep 11-Sep 13,10,69,Un gallo con muchos huevos,2,2
 Sep 11-Sep 13,11,67,The Man From U.N.C.L.E.,5,1.9
 Sep 11-Sep 13,12,80,Ant-Man,9,1.7
 Sep 11-Sep 13,13,98,Inside Out,13,1.5
@@ -580,7 +580,7 @@ Jul 17-Jul 19,4,98,Inside Out,5,11.5
 Jul 17-Jul 19,5,71,Jurassic World,6,11.5
 Jul 17-Jul 19,6,26,Terminator Genisys,4,5.4
 Jul 17-Jul 19,7,62,Magic Mike XXL,4,4.4
-Jul 17-Jul 19,8,16,The Gallows,2,4.0
+Jul 17-Jul 19,8,16,The Gallows,2,4
 Jul 17-Jul 19,10,46,Ted 2,4,2.6
 Jul 17-Jul 19,11,87,Mr. Holmes,1,2.4
 Jul 17-Jul 19,12,20,Self/less,2,2.3
@@ -590,7 +590,7 @@ Jul 17-Jul 19,15,97,Amy,3,1.1
 Jul 17-Jul 19,17,50,San Andreas,8,0.6
 Jul 17-Jul 19,18,74,Avengers: Age of Ultron,12,0.5
 Jul 17-Jul 19,19,97,Mad Max: Fury Road,10,0.4
-Jul 17-Jul 19,20,87,Dope,--,0.3
+Jul 17-Jul 19,20,87,Dope,,0.3
 Jul 17-Jul 19,21,89,Love &amp; Mercy,7,0.2
 Jul 17-Jul 19,22,81,Me and Earl and the Dying Girl,6,0.2
 Jul 17-Jul 19,23,67,Pitch Perfect 2,10,0.2
@@ -626,14 +626,14 @@ Jun 26-Jun 28,3,46,Ted 2,1,33.5
 Jun 26-Jun 28,4,35,Max,1,12.2
 Jun 26-Jun 28,5,93,Spy,4,7.9
 Jun 26-Jun 28,6,50,San Andreas,5,5.4
-Jun 26-Jun 28,7,87,Dope,--,2.8
-Jun 26-Jun 28,8,59,Insidious: Chapter 3,4,2.0
+Jun 26-Jun 28,7,87,Dope,,2.8
+Jun 26-Jun 28,8,59,Insidious: Chapter 3,4,2
 Jun 26-Jun 28,9,97,Mad Max: Fury Road,7,1.8
 Jun 26-Jun 28,10,74,Avengers: Age of Ultron,9,1.7
 Jun 26-Jun 28,11,67,Pitch Perfect 2,7,1.5
 Jun 26-Jun 28,12,89,Love &amp; Mercy,4,1.3
 Jun 26-Jun 28,13,50,Tomorrowland,6,1.1
-Jun 26-Jun 28,14,81,Me and Earl and the Dying Girl,3,1.0
+Jun 26-Jun 28,14,81,Me and Earl and the Dying Girl,3,1
 Jun 26-Jun 28,15,32,Entourage,5,0.8
 Jun 26-Jun 28,16,94,I'll See You in My Dreams,7,0.6
 Jun 26-Jun 28,17,45,Home,15,0.4
@@ -666,3 +666,669 @@ Jun 26-Jun 28,46,87,The Tribe,3,0.0174
 Jun 26-Jun 28,47,97,Iris,10,0.017
 Jun 26-Jun 28,49,82,Eden,2,0.0135
 Jun 26-Jun 28,50,52,Gemma Bovery,5,0.013
+Jul 24-Jul 26,1,80,Ant-Man,2,57.2
+Jul 24-Jul 26,2,54,Minions,3,49.3
+Jul 24-Jul 26,3,86,Trainwreck,2,30.1
+Jul 24-Jul 26,4,98,Inside Out,6,11.5
+Jul 24-Jul 26,5,71,Jurassic World,7,11.5
+Jul 24-Jul 26,6,26,Terminator Genisys,4,5.4
+Jul 24-Jul 26,7,62,Magic Mike XXL,4,4.4
+Jul 24-Jul 26,8,16,The Gallows,3,4
+Jul 24-Jul 26,10,46,Ted 2,5,2.6
+Jul 24-Jul 26,11,87,Mr. Holmes,2,2.4
+Jul 24-Jul 26,12,20,Self/less,3,2.3
+Jul 24-Jul 26,13,35,Max,5,1.9
+Jul 24-Jul 26,14,93,Spy,8,1.5
+Jul 24-Jul 26,15,97,Amy,4,1.1
+Jul 24-Jul 26,17,50,San Andreas,9,0.6
+Jul 24-Jul 26,18,74,Avengers: Age of Ultron,13,0.5
+Jul 24-Jul 26,19,97,Mad Max: Fury Road,11,0.4
+Jul 24-Jul 26,20,87,Dope,,0.3
+Jul 24-Jul 26,21,89,Love &amp; Mercy,8,0.2
+Jul 24-Jul 26,22,81,Me and Earl and the Dying Girl,7,0.2
+Jul 24-Jul 26,23,67,Pitch Perfect 2,11,0.2
+Jul 24-Jul 26,24,94,I'll See You in My Dreams,11,0.2
+Jul 24-Jul 26,25,45,Home,18,0.2
+Jul 24-Jul 26,26,42,Irrational Man,2,0.2
+Jul 24-Jul 26,27,50,Tomorrowland,10,0.1
+Jul 24-Jul 26,28,81,Testament Of Youth,8,0.1
+Jul 24-Jul 26,29,91,Cartel Land,4,0.1
+Jul 24-Jul 26,30,80,Infinitely Polar Bear,6,0.1
+Jul 24-Jul 26,31,5,Paul Blart: Mall Cop 2,15,0.1
+Jul 24-Jul 26,33,32,Entourage,8,0.088
+Jul 24-Jul 26,34,95,Tangerine,3,0.0749
+Jul 24-Jul 26,35,77,Jimmy's Hall,4,0.0643
+Jul 24-Jul 26,36,59,Insidious: Chapter 3,8,0.0554
+Jul 24-Jul 26,37,84,The Wolfpack,7,0.0519
+Jul 24-Jul 26,38,82,The Overnight,6,0.0509
+Jul 24-Jul 26,39,85,Far From the Madding Crowd,13,0.05
+Jul 24-Jul 26,40,85,Cinderella,20,0.048
+Jul 24-Jul 26,41,8,Hot Pursuit,12,0.0459
+Jul 24-Jul 26,42,19,Aloha,9,0.0447
+Jul 24-Jul 26,43,86,Hubble 3D,280,0.0412
+Jul 24-Jul 26,44,31,Poltergeist,10,0.0406
+Jul 24-Jul 26,45,52,Woman in Gold,17,0.0389
+Jul 24-Jul 26,46,85,The Stanford Prison Experiment,2,0.0375
+Jul 24-Jul 26,47,92,Ex Machina,14,0.0307
+Jul 24-Jul 26,48,10,Faith Of Our Fathers,4,0.0277
+Jul 24-Jul 26,49,51,Boulevard,3,0.0275
+Jul 24-Jul 26,50,100,The Third Man,3439,0.0261
+Aug 21-Aug 23,1,90,Straight Outta Compton,2,60.2
+Aug 21-Aug 23,2,93,Mission: Impossible Rogue Nation,4,17.2
+Aug 21-Aug 23,3,67,The Man From U.N.C.L.E.,2,13.4
+Aug 21-Aug 23,4,9,Fantastic Four,3,8.2
+Aug 21-Aug 23,5,93,The Gift,3,6.5
+Aug 21-Aug 23,6,80,Ant-Man,6,5.5
+Aug 21-Aug 23,7,26,Vacation,4,5.2
+Aug 21-Aug 23,8,54,Minions,7,5.1
+Aug 21-Aug 23,9,64,Ricki And The Flash,3,4.6
+Aug 21-Aug 23,10,86,Trainwreck,6,3.8
+Aug 21-Aug 23,11,17,Pixels,5,3.4
+Aug 21-Aug 23,12,99,Shaun the Sheep,3,2.9
+Aug 21-Aug 23,13,59,Southpaw,5,2.4
+Aug 21-Aug 23,14,98,Inside Out,10,2
+Aug 21-Aug 23,15,71,Jurassic World,11,1.2
+Aug 21-Aug 23,16,87,Mr. Holmes,6,0.8
+Aug 21-Aug 23,17,55,Paper Towns,5,0.6
+Aug 21-Aug 23,18,92,The End Of The Tour,4,0.4
+Aug 21-Aug 23,19,42,Irrational Man,6,0.4
+Aug 21-Aug 23,20,60,Brothers,2,0.4
+Aug 21-Aug 23,21,50,San Andreas,13,0.4
+Aug 21-Aug 23,22,86,Assassination,3,0.3
+Aug 21-Aug 23,23,35,Max,9,0.3
+Aug 21-Aug 23,24,93,Spy,12,0.2
+Aug 21-Aug 23,25,97,Amy,8,0.2
+Aug 21-Aug 23,26,99,Phoenix,5,0.2
+Aug 21-Aug 23,27,75,Dragon Ball Z: Resurrection 'F',3,0.2
+Aug 21-Aug 23,28,26,Terminator Genisys,8,0.2
+Aug 21-Aug 23,29,97,Mad Max: Fury Road,15,0.1
+Aug 21-Aug 23,30,94,Best Of Enemies,4,0.1
+Aug 21-Aug 23,31,46,Ted 2,9,0.1
+Aug 21-Aug 23,32,50,Tomorrowland,14,0.1
+Aug 21-Aug 23,33,95,The Diary Of A Teenage Girl,3,0.1
+Aug 21-Aug 23,34,74,Avengers: Age of Ultron,17,0.1
+Aug 21-Aug 23,35,62,Magic Mike XXL,8,0.1
+Aug 21-Aug 23,36,81,Mistress America,2,0.094
+Aug 21-Aug 23,37,92,Meru,2,0.0913
+Aug 21-Aug 23,38,45,Home,22,0.0638
+Aug 21-Aug 23,39,79,Cop Car,3,0.0508
+Aug 21-Aug 23,41,80,Infinitely Polar Bear,10,0.0441
+Aug 21-Aug 23,42,85,The Stanford Prison Experiment,6,0.039
+Aug 21-Aug 23,43,97,Listen To Me Marlon,4,0.0386
+Aug 21-Aug 23,44,69,Kahlil Gibran's The Prophet,3,0.036
+Aug 21-Aug 23,45,16,The Gallows,7,0.0355
+Aug 21-Aug 23,46,89,Love &amp; Mercy,12,0.0337
+Aug 21-Aug 23,47,13,The Vatican Tapes,5,0.0334
+Aug 21-Aug 23,48,94,I'll See You in My Dreams,15,0.0324
+Aug 21-Aug 23,49,95,Tangerine,7,0.0315
+Aug 21-Aug 23,50,76,People Places Things,2,0.0308
+Jul 31-Aug 02,1,80,Ant-Man,3,24.9
+Jul 31-Aug 02,2,17,Pixels,2,24
+Jul 31-Aug 02,3,54,Minions,4,22.9
+Jul 31-Aug 02,4,86,Trainwreck,3,17.3
+Jul 31-Aug 02,5,59,Southpaw,2,16.7
+Jul 31-Aug 02,6,55,Paper Towns,2,12.7
+Jul 31-Aug 02,7,98,Inside Out,7,7.4
+Jul 31-Aug 02,8,71,Jurassic World,8,7.2
+Jul 31-Aug 02,9,87,Mr. Holmes,3,2.9
+Jul 31-Aug 02,10,26,Terminator Genisys,5,2.4
+Jul 31-Aug 02,11,62,Magic Mike XXL,5,1.9
+Jul 31-Aug 02,13,16,The Gallows,4,1.2
+Jul 31-Aug 02,14,46,Ted 2,6,1
+Jul 31-Aug 02,16,13,The Vatican Tapes,2,0.8
+Jul 31-Aug 02,17,35,Max,6,0.8
+Jul 31-Aug 02,18,93,Spy,9,0.8
+Jul 31-Aug 02,19,97,Amy,5,0.7
+Jul 31-Aug 02,20,97,Mad Max: Fury Road,12,0.4
+Jul 31-Aug 02,21,50,San Andreas,10,0.3
+Jul 31-Aug 02,22,74,Avengers: Age of Ultron,14,0.3
+Jul 31-Aug 02,23,20,Self/less,4,0.3
+Jul 31-Aug 02,24,42,Irrational Man,3,0.3
+Jul 31-Aug 02,25,50,Tomorrowland,11,0.2
+Jul 31-Aug 02,26,45,Home,19,0.1
+Jul 31-Aug 02,27,89,Love &amp; Mercy,9,0.1
+Jul 31-Aug 02,28,87,Dope,,0.1
+Jul 31-Aug 02,29,67,Pitch Perfect 2,12,0.1
+Jul 31-Aug 02,30,94,I'll See You in My Dreams,12,0.1
+Jul 31-Aug 02,31,80,Infinitely Polar Bear,7,0.1
+Jul 31-Aug 02,32,81,Me and Earl and the Dying Girl,8,0.1
+Jul 31-Aug 02,33,81,Testament Of Youth,9,0.0904
+Jul 31-Aug 02,34,95,Tangerine,4,0.0904
+Jul 31-Aug 02,35,91,Cartel Land,5,0.0854
+Jul 31-Aug 02,36,59,Insidious: Chapter 3,9,0.0817
+Jul 31-Aug 02,38,5,Paul Blart: Mall Cop 2,16,0.067
+Jul 31-Aug 02,39,77,Jimmy's Hall,5,0.0605
+Jul 31-Aug 02,40,85,The Stanford Prison Experiment,3,0.0575
+Jul 31-Aug 02,41,88,A Borrowed Identity,6,0.0344
+Jul 31-Aug 02,42,84,The Wolfpack,8,0.0336
+Jul 31-Aug 02,43,19,Aloha,10,0.033
+Jul 31-Aug 02,44,32,Entourage,9,0.0303
+Jul 31-Aug 02,45,85,Cinderella,21,0.0291
+Jul 31-Aug 02,46,99,Phoenix,2,0.028
+Jul 31-Aug 02,47,29,Only You,2,0.0273
+Jul 31-Aug 02,48,8,Hot Pursuit,13,0.0273
+Jul 31-Aug 02,49,82,Do I Sound Gay?,4,0.027
+Jul 31-Aug 02,50,85,Far From the Madding Crowd,14,0.027
+Sep 18-Sep 20,1,19,The Perfect Guy,2,25.9
+Sep 18-Sep 20,2,62,The Visit,2,25.4
+Sep 18-Sep 20,3,36,War Room,4,7.8
+Sep 18-Sep 20,4,45,A Walk In The Woods,3,4.7
+Sep 18-Sep 20,5,93,Mission: Impossible Rogue Nation,8,4.1
+Sep 18-Sep 20,6,90,Straight Outta Compton,6,3.9
+Sep 18-Sep 20,7,46,No Escape,4,2.9
+Sep 18-Sep 20,8,17,The Transporter Refueled,3,2.8
+Sep 18-Sep 20,9,25,90 Minutes In Heaven,2,2
+Sep 18-Sep 20,10,69,Un gallo con muchos huevos,3,2
+Sep 18-Sep 20,11,67,The Man From U.N.C.L.E.,6,1.9
+Sep 18-Sep 20,12,80,Ant-Man,10,1.7
+Sep 18-Sep 20,13,98,Inside Out,14,1.5
+Sep 18-Sep 20,14,54,Minions,11,1.5
+Sep 18-Sep 20,15,93,The Gift,7,1.4
+Sep 18-Sep 20,16,13,Sinister 2,5,1.3
+Sep 18-Sep 20,17,71,Jurassic World,15,1.2
+Sep 18-Sep 20,18,17,Pixels,9,1.1
+Sep 18-Sep 20,19,86,Trainwreck,10,0.9
+Sep 18-Sep 20,20,7,Hitman: Agent 47,5,0.7
+Sep 18-Sep 20,21,67,Learning To Drive,5,0.7
+Sep 18-Sep 20,22,93,Grandma,5,0.6
+Sep 18-Sep 20,23,26,Vacation,8,0.6
+Sep 18-Sep 20,24,99,Shaun the Sheep,7,0.5
+Sep 18-Sep 20,25,9,Fantastic Four,7,0.4
+Sep 18-Sep 20,26,64,Ricki And The Flash,7,0.4
+Sep 18-Sep 20,27,45,American Ultra,5,0.3
+Sep 18-Sep 20,28,97,Mad Max: Fury Road,19,0.3
+Sep 18-Sep 20,29,59,Southpaw,9,0.3
+Sep 18-Sep 20,30,87,Mr. Holmes,10,0.3
+Sep 18-Sep 20,31,99,Phoenix,9,0.3
+Sep 18-Sep 20,32,92,Meru,6,0.3
+Sep 18-Sep 20,33,81,Mistress America,6,0.2
+Sep 18-Sep 20,35,74,Avengers: Age of Ultron,21,0.2
+Sep 18-Sep 20,36,50,San Andreas,17,0.1
+Sep 18-Sep 20,37,35,Max,13,0.1
+Sep 18-Sep 20,38,55,Paper Towns,9,0.0927
+Sep 18-Sep 20,39,73,Steve Jobs: Man in the Machine,3,0.0906
+Sep 18-Sep 20,40,59,Sleeping with Other People,2,0.0891
+Sep 18-Sep 20,41,92,The End Of The Tour,8,0.0836
+Sep 18-Sep 20,42,26,Terminator Genisys,12,0.077
+Sep 18-Sep 20,43,84,Meet The Patels,2,0.0722
+Sep 18-Sep 20,44,87,Dope,3,0.0676
+Sep 18-Sep 20,45,93,Spy,16,0.0665
+Sep 18-Sep 20,46,97,Amy,12,0.0645
+Sep 18-Sep 20,47,80,Goodnight Mommy,2,0.0603
+Sep 18-Sep 20,49,95,The Diary Of A Teenage Girl,7,0.0552
+Sep 18-Sep 20,50,75,The Beauty Inside,2,0.0505
+Jul 03-Jul 05,1,71,Jurassic World,4,54.5
+Jul 03-Jul 05,2,98,Inside Out,3,52.3
+Jul 03-Jul 05,3,46,Ted 2,2,33.5
+Jul 03-Jul 05,4,35,Max,2,12.2
+Jul 03-Jul 05,5,93,Spy,5,7.9
+Jul 03-Jul 05,6,50,San Andreas,6,5.4
+Jul 03-Jul 05,7,87,Dope,,2.8
+Jul 03-Jul 05,8,59,Insidious: Chapter 3,5,2
+Jul 03-Jul 05,9,97,Mad Max: Fury Road,8,1.8
+Jul 03-Jul 05,10,74,Avengers: Age of Ultron,10,1.7
+Jul 03-Jul 05,11,67,Pitch Perfect 2,8,1.5
+Jul 03-Jul 05,12,89,Love &amp; Mercy,5,1.3
+Jul 03-Jul 05,13,50,Tomorrowland,7,1.1
+Jul 03-Jul 05,14,81,Me and Earl and the Dying Girl,4,1
+Jul 03-Jul 05,15,32,Entourage,5,0.8
+Jul 03-Jul 05,16,94,I'll See You in My Dreams,8,0.6
+Jul 03-Jul 05,17,45,Home,15,0.4
+Jul 03-Jul 05,18,5,Paul Blart: Mall Cop 2,12,0.3
+Jul 03-Jul 05,19,85,Cinderella,17,0.3
+Jul 03-Jul 05,20,19,Aloha,6,0.2
+Jul 03-Jul 05,21,84,The Wolfpack,4,0.2
+Jul 03-Jul 05,22,40,A Little Chaos,2,0.2
+Jul 03-Jul 05,23,81,Testament Of Youth,5,0.2
+Jul 03-Jul 05,24,85,Far From the Madding Crowd,10,0.2
+Jul 03-Jul 05,26,31,Poltergeist,7,0.2
+Jul 03-Jul 05,27,82,The Overnight,3,0.2
+Jul 03-Jul 05,28,8,Hot Pursuit,9,0.1
+Jul 03-Jul 05,29,52,Woman in Gold,14,0.1
+Jul 03-Jul 05,30,52,Escobar: Paradise Lost,2,0.1
+Jul 03-Jul 05,32,30,Insurgent,16,0.0997
+Jul 03-Jul 05,33,54,The Age of Adaline,11,0.0891
+Jul 03-Jul 05,34,80,Infinitely Polar Bear,3,0.0692
+Jul 03-Jul 05,35,86,Hubble 3D,277,0.0495
+Jul 03-Jul 05,36,29,Get Hard,15,0.0354
+Jul 03-Jul 05,37,94,Monkey Kingdom,12,0.035
+Jul 03-Jul 05,38,67,The 100-Year-Old Man Who Climbed Out the Window and Disappeared,9,0.0287
+Jul 03-Jul 05,40,100,The Third Man,3436,0.0248
+Jul 03-Jul 05,41,49,Manglehorn,3,0.0228
+Jul 03-Jul 05,42,80,Island Of Lemurs: Madagascar,66,0.0199
+Jul 03-Jul 05,43,81,Batkid Begins,2,0.0194
+Jul 03-Jul 05,44,93,The Farewell Party,7,0.0193
+Jul 03-Jul 05,45,75,Big Game,2,0.0174
+Jul 03-Jul 05,46,87,The Tribe,3,0.0174
+Jul 03-Jul 05,47,97,Iris,10,0.017
+Jul 03-Jul 05,49,82,Eden,3,0.0135
+Jul 03-Jul 05,50,52,Gemma Bovery,6,0.013
+Sep 04-Sep 06,1,90,Straight Outta Compton,4,13.1
+Sep 04-Sep 06,2,36,War Room,2,11.4
+Sep 04-Sep 06,3,93,Mission: Impossible Rogue Nation,6,8.2
+Sep 04-Sep 06,4,46,No Escape,2,8.1
+Sep 04-Sep 06,5,13,Sinister 2,3,4.7
+Sep 04-Sep 06,6,67,The Man From U.N.C.L.E.,4,4.4
+Sep 04-Sep 06,7,7,Hitman: Agent 47,3,4.2
+Sep 04-Sep 06,8,80,Ant-Man,8,3.1
+Sep 04-Sep 06,9,71,Jurassic World,13,3
+Sep 04-Sep 06,10,93,The Gift,5,3
+Sep 04-Sep 06,11,54,Minions,9,2.9
+Sep 04-Sep 06,12,45,American Ultra,3,2.9
+Sep 04-Sep 06,13,9,Fantastic Four,5,1.8
+Sep 04-Sep 06,14,42,We Are Your Friends,2,1.8
+Sep 04-Sep 06,15,64,Ricki And The Flash,5,1.7
+Sep 04-Sep 06,16,86,Trainwreck,8,1.7
+Sep 04-Sep 06,17,26,Vacation,6,1.6
+Sep 04-Sep 06,18,17,Pixels,7,1.5
+Sep 04-Sep 06,19,98,Inside Out,12,1.3
+Sep 04-Sep 06,20,99,Shaun the Sheep,5,1.1
+Sep 04-Sep 06,21,59,Southpaw,7,0.9
+Sep 04-Sep 06,22,87,Mr. Holmes,8,0.5
+Sep 04-Sep 06,23,81,Mistress America,4,0.4
+Sep 04-Sep 06,24,95,The Diary Of A Teenage Girl,5,0.4
+Sep 04-Sep 06,25,99,Phoenix,7,0.4
+Sep 04-Sep 06,26,92,The End Of The Tour,6,0.3
+Sep 04-Sep 06,27,93,Grandma,3,0.3
+Sep 04-Sep 06,28,92,Meru,4,0.3
+Sep 04-Sep 06,31,50,San Andreas,15,0.2
+Sep 04-Sep 06,32,35,Max,11,0.2
+Sep 04-Sep 06,33,74,Avengers: Age of Ultron,19,0.2
+Sep 04-Sep 06,34,26,Terminator Genisys,10,0.2
+Sep 04-Sep 06,35,55,Paper Towns,7,0.2
+Sep 04-Sep 06,36,86,Assassination,5,0.1
+Sep 04-Sep 06,37,93,Spy,14,0.1
+Sep 04-Sep 06,38,67,Learning To Drive,3,0.1
+Sep 04-Sep 06,39,97,Amy,10,0.1
+Sep 04-Sep 06,40,42,Irrational Man,8,0.1
+Sep 04-Sep 06,41,94,Best Of Enemies,6,0.0869
+Sep 04-Sep 06,42,97,Mad Max: Fury Road,17,0.0866
+Sep 04-Sep 06,43,50,Tomorrowland,16,0.0776
+Sep 04-Sep 06,44,16,The Gallows,9,0.0611
+Sep 04-Sep 06,45,77,Z For Zachariah,2,0.0569
+Sep 04-Sep 06,46,62,Magic Mike XXL,10,0.0565
+Sep 04-Sep 06,47,75,Memories of the Sword,2,0.0502
+Sep 04-Sep 06,48,64,Digging For Fire,3,0.0485
+Sep 04-Sep 06,49,96,Rosenwald,4,0.047
+Sep 04-Sep 06,50,97,Listen To Me Marlon,6,0.0415
+Aug 07-Aug 09,1,93,Mission: Impossible Rogue Nation,2,55.5
+Aug 07-Aug 09,2,26,Vacation,2,14.7
+Aug 07-Aug 09,3,80,Ant-Man,4,12.8
+Aug 07-Aug 09,4,54,Minions,5,12.4
+Aug 07-Aug 09,5,17,Pixels,3,10.5
+Aug 07-Aug 09,6,86,Trainwreck,4,9.6
+Aug 07-Aug 09,7,59,Southpaw,3,7.6
+Aug 07-Aug 09,8,55,Paper Towns,3,4.6
+Aug 07-Aug 09,9,98,Inside Out,8,4.5
+Aug 07-Aug 09,10,71,Jurassic World,9,3.9
+Aug 07-Aug 09,11,87,Mr. Holmes,4,2.4
+Aug 07-Aug 09,12,26,Terminator Genisys,6,0.9
+Aug 07-Aug 09,14,62,Magic Mike XXL,6,0.6
+Aug 07-Aug 09,15,42,Irrational Man,4,0.5
+Aug 07-Aug 09,16,46,Ted 2,7,0.5
+Aug 07-Aug 09,17,97,Amy,6,0.4
+Aug 07-Aug 09,18,93,Spy,10,0.4
+Aug 07-Aug 09,19,16,The Gallows,5,0.4
+Aug 07-Aug 09,20,13,The Vatican Tapes,3,0.3
+Aug 07-Aug 09,21,97,Mad Max: Fury Road,13,0.3
+Aug 07-Aug 09,22,35,Max,7,0.3
+Aug 07-Aug 09,23,50,San Andreas,11,0.2
+Aug 07-Aug 09,24,50,Tomorrowland,12,0.2
+Aug 07-Aug 09,25,74,Avengers: Age of Ultron,15,0.2
+Aug 07-Aug 09,26,92,The End Of The Tour,2,0.1
+Aug 07-Aug 09,27,45,Home,20,0.1
+Aug 07-Aug 09,28,85,The Stanford Prison Experiment,4,0.1
+Aug 07-Aug 09,29,80,Infinitely Polar Bear,8,0.1
+Aug 07-Aug 09,30,20,Self/less,5,0.0963
+Aug 07-Aug 09,31,89,Love &amp; Mercy,10,0.0863
+Aug 07-Aug 09,32,87,Dope,,0.0733
+Aug 07-Aug 09,33,94,I'll See You in My Dreams,13,0.0673
+Aug 07-Aug 09,34,95,Tangerine,5,0.0645
+Aug 07-Aug 09,35,59,Insidious: Chapter 3,10,0.0629
+Aug 07-Aug 09,36,99,Phoenix,3,0.05
+Aug 07-Aug 09,37,81,Me and Earl and the Dying Girl,9,0.0493
+Aug 07-Aug 09,38,81,Testament Of Youth,10,0.0436
+Aug 07-Aug 09,39,53,A LEGO Brickumentary,2,0.0433
+Aug 07-Aug 09,40,91,Cartel Land,6,0.0427
+Aug 07-Aug 09,41,56,Samba,3,0.039
+Aug 07-Aug 09,42,85,Cinderella,22,0.0366
+Aug 07-Aug 09,43,5,Paul Blart: Mall Cop 2,17,0.0364
+Aug 07-Aug 09,44,78,The Young And Prodigious T.S. Spivet,2,0.0337
+Aug 07-Aug 09,45,77,Jimmy's Hall,6,0.0334
+Aug 07-Aug 09,46,97,Listen To Me Marlon,2,0.0292
+Aug 07-Aug 09,48,88,A Borrowed Identity,7,0.0253
+Aug 07-Aug 09,49,80,Island Of Lemurs: Madagascar,71,0.0214
+Aug 07-Aug 09,50,97,The Look of Silence,4,0.0205
+Aug 14-Aug 16,1,93,Mission: Impossible Rogue Nation,3,28.5
+Aug 14-Aug 16,2,9,Fantastic Four,2,25.7
+Aug 14-Aug 16,3,93,The Gift,2,11.9
+Aug 14-Aug 16,4,26,Vacation,3,9
+Aug 14-Aug 16,5,80,Ant-Man,5,7.9
+Aug 14-Aug 16,6,54,Minions,6,7.4
+Aug 14-Aug 16,7,64,Ricki And The Flash,2,6.6
+Aug 14-Aug 16,8,86,Trainwreck,5,6.1
+Aug 14-Aug 16,9,17,Pixels,4,5.4
+Aug 14-Aug 16,10,59,Southpaw,4,4.7
+Aug 14-Aug 16,11,99,Shaun the Sheep,2,4
+Aug 14-Aug 16,12,98,Inside Out,9,2.7
+Aug 14-Aug 16,13,71,Jurassic World,10,1.9
+Aug 14-Aug 16,14,75,Dragon Ball Z: Resurrection 'F',2,1.8
+Aug 14-Aug 16,15,55,Paper Towns,4,1.5
+Aug 14-Aug 16,16,87,Mr. Holmes,5,1.3
+Aug 14-Aug 16,17,42,Irrational Man,5,0.8
+Aug 14-Aug 16,18,50,San Andreas,12,0.5
+Aug 14-Aug 16,19,93,Spy,11,0.4
+Aug 14-Aug 16,20,26,Terminator Genisys,7,0.3
+Aug 14-Aug 16,23,97,Amy,7,0.3
+Aug 14-Aug 16,24,92,The End Of The Tour,3,0.2
+Aug 14-Aug 16,25,62,Magic Mike XXL,7,0.2
+Aug 14-Aug 16,26,46,Ted 2,8,0.2
+Aug 14-Aug 16,27,97,Mad Max: Fury Road,14,0.2
+Aug 14-Aug 16,28,50,Tomorrowland,13,0.1
+Aug 14-Aug 16,29,35,Max,8,0.1
+Aug 14-Aug 16,30,99,Phoenix,4,0.1
+Aug 14-Aug 16,31,74,Avengers: Age of Ultron,16,0.1
+Aug 14-Aug 16,32,26,Dark Places,2,0.0996
+Aug 14-Aug 16,33,16,The Gallows,6,0.099
+Aug 14-Aug 16,34,45,Home,21,0.0938
+Aug 14-Aug 16,35,85,The Stanford Prison Experiment,5,0.0828
+Aug 14-Aug 16,36,94,Best Of Enemies,3,0.0816
+Aug 14-Aug 16,37,95,The Diary Of A Teenage Girl,2,0.0545
+Aug 14-Aug 16,38,89,Love &amp; Mercy,11,0.0512
+Aug 14-Aug 16,39,94,I'll See You in My Dreams,14,0.0481
+Aug 14-Aug 16,40,95,Tangerine,6,0.043
+Aug 14-Aug 16,41,97,Listen To Me Marlon,3,0.0422
+Aug 14-Aug 16,42,86,Hubble 3D,283,0.0412
+Aug 14-Aug 16,43,20,Self/less,6,0.0411
+Aug 14-Aug 16,44,80,Infinitely Polar Bear,9,0.0386
+Aug 14-Aug 16,45,87,Dope,,0.0365
+Aug 14-Aug 16,47,13,The Vatican Tapes,4,0.0332
+Aug 14-Aug 16,48,59,Insidious: Chapter 3,11,0.0302
+Aug 14-Aug 16,49,81,Me and Earl and the Dying Girl,10,0.0286
+Aug 14-Aug 16,50,79,Cop Car,2,0.027
+Sep 25-Sep 27,1,49,Maze Runner: The Scorch Trials,2,30.3
+Sep 25-Sep 27,2,75,Black Mass,2,22.6
+Sep 25-Sep 27,3,62,The Visit,3,11.6
+Sep 25-Sep 27,4,19,The Perfect Guy,3,9.8
+Sep 25-Sep 27,5,72,Everest,2,7.2
+Sep 25-Sep 27,6,36,War Room,5,6.2
+Sep 25-Sep 27,7,45,A Walk In The Woods,4,2.8
+Sep 25-Sep 27,8,93,Mission: Impossible Rogue Nation,9,2.2
+Sep 25-Sep 27,9,90,Straight Outta Compton,7,1.9
+Sep 25-Sep 27,10,93,Grandma,6,1.5
+Sep 25-Sep 27,11,24,Captive,2,1.4
+Sep 25-Sep 27,12,69,Un gallo con muchos huevos,4,1.1
+Sep 25-Sep 27,13,25,90 Minutes In Heaven,3,1
+Sep 25-Sep 27,14,46,No Escape,5,1
+Sep 25-Sep 27,15,54,Minions,12,1
+Sep 25-Sep 27,16,98,Inside Out,15,0.9
+Sep 25-Sep 27,17,80,Ant-Man,11,0.9
+Sep 25-Sep 27,18,67,The Man From U.N.C.L.E.,7,0.8
+Sep 25-Sep 27,19,17,The Transporter Refueled,4,0.7
+Sep 25-Sep 27,20,17,Pixels,10,0.7
+Sep 25-Sep 27,21,71,Jurassic World,16,0.6
+Sep 25-Sep 27,22,67,Learning To Drive,6,0.5
+Sep 25-Sep 27,23,93,The Gift,8,0.5
+Sep 25-Sep 27,24,86,Trainwreck,11,0.5
+Sep 25-Sep 27,25,93,Sicario,,0.4
+Sep 25-Sep 27,26,13,Sinister 2,6,0.4
+Sep 25-Sep 27,27,80,Veteran,2,0.3
+Sep 25-Sep 27,28,26,Vacation,9,0.3
+Sep 25-Sep 27,29,7,Hitman: Agent 47,6,0.3
+Sep 25-Sep 27,30,99,Shaun the Sheep,8,0.3
+Sep 25-Sep 27,32,9,Fantastic Four,8,0.2
+Sep 25-Sep 27,34,72,Pawn Sacrifice,1,0.2
+Sep 25-Sep 27,35,92,Meru,7,0.2
+Sep 25-Sep 27,36,99,Phoenix,10,0.2
+Sep 25-Sep 27,37,84,Meet The Patels,3,0.2
+Sep 25-Sep 27,38,74,Avengers: Age of Ultron,22,0.1
+Sep 25-Sep 27,39,87,Mr. Holmes,11,0.1
+Sep 25-Sep 27,40,64,Ricki And The Flash,8,0.1
+Sep 25-Sep 27,41,59,Southpaw,10,0.1
+Sep 25-Sep 27,42,50,San Andreas,18,0.1
+Sep 25-Sep 27,43,35,Max,14,0.1
+Sep 25-Sep 27,44,59,Sleeping with Other People,3,0.0927
+Sep 25-Sep 27,45,93,Spy,17,0.0727
+Sep 25-Sep 27,46,55,Paper Towns,10,0.0696
+Sep 25-Sep 27,47,81,Mistress America,7,0.0617
+Sep 25-Sep 27,49,45,American Ultra,6,0.0557
+Sep 25-Sep 27,50,92,The Black Panthers: Vanguard Of The Revolution,4,0.047
+Jul 10-Jul 12,1,98,Inside Out,4,29.8
+Jul 10-Jul 12,2,71,Jurassic World,5,29.2
+Jul 10-Jul 12,3,26,Terminator Genisys,2,27
+Jul 10-Jul 12,4,62,Magic Mike XXL,2,12.9
+Jul 10-Jul 12,5,46,Ted 2,3,11.2
+Jul 10-Jul 12,6,35,Max,3,6.6
+Jul 10-Jul 12,7,93,Spy,6,5.1
+Jul 10-Jul 12,8,50,San Andreas,7,2.8
+Jul 10-Jul 12,9,81,Me and Earl and the Dying Girl,5,1.2
+Jul 10-Jul 12,10,87,Dope,,1.1
+Jul 10-Jul 12,11,97,Mad Max: Fury Road,9,1
+Jul 10-Jul 12,12,74,Avengers: Age of Ultron,11,0.9
+Jul 10-Jul 12,13,89,Love &amp; Mercy,6,0.7
+Jul 10-Jul 12,14,67,Pitch Perfect 2,9,0.6
+Jul 10-Jul 12,15,59,Insidious: Chapter 3,6,0.6
+Jul 10-Jul 12,16,94,I'll See You in My Dreams,9,0.5
+Jul 10-Jul 12,17,10,Faith Of Our Fathers,2,0.4
+Jul 10-Jul 12,18,50,Tomorrowland,8,0.4
+Jul 10-Jul 12,19,82,The Overnight,4,0.3
+Jul 10-Jul 12,20,45,Home,16,0.3
+Jul 10-Jul 12,21,32,Entourage,6,0.2
+Jul 10-Jul 12,22,90,Sunshine Superman,8,0.2
+Jul 10-Jul 12,23,5,Paul Blart: Mall Cop 2,13,0.2
+Jul 10-Jul 12,25,81,Testament Of Youth,6,0.2
+Jul 10-Jul 12,26,19,Aloha,7,0.1
+Jul 10-Jul 12,27,84,The Wolfpack,5,0.1
+Jul 10-Jul 12,28,85,Far From the Madding Crowd,11,0.1
+Jul 10-Jul 12,29,40,A Little Chaos,3,0.1
+Jul 10-Jul 12,30,85,Cinderella,18,0.1
+Jul 10-Jul 12,31,52,Woman in Gold,15,0.1
+Jul 10-Jul 12,32,8,Hot Pursuit,10,0.0719
+Jul 10-Jul 12,33,92,Ex Machina,12,0.0689
+Jul 10-Jul 12,34,100,The Third Man,3437,0.0685
+Jul 10-Jul 12,35,30,Insurgent,17,0.0668
+Jul 10-Jul 12,36,31,Poltergeist,8,0.0658
+Jul 10-Jul 12,37,54,The Age of Adaline,12,0.0473
+Jul 10-Jul 12,38,86,Hubble 3D,278,0.0424
+Jul 10-Jul 12,40,80,Island Of Lemurs: Madagascar,67,0.0245
+Jul 10-Jul 12,41,52,Escobar: Paradise Lost,3,0.024
+Jul 10-Jul 12,42,88,A Borrowed Identity,3,0.0233
+Jul 10-Jul 12,43,29,Get Hard,16,0.0208
+Jul 10-Jul 12,44,67,The 100-Year-Old Man Who Climbed Out the Window and Disappeared,10,0.0174
+Jul 10-Jul 12,45,31,The Longest Ride,14,0.0166
+Jul 10-Jul 12,46,94,Under the Sea 3D,335,0.0156
+Jul 10-Jul 12,47,93,The Farewell Party,8,0.0135
+Jul 10-Jul 12,48,97,Iris,11,0.0128
+Jul 10-Jul 12,49,94,Monkey Kingdom,13,0.0113
+Jul 10-Jul 12,50,89,A Pigeon Sat on a Branch Reflecting on Existence,6,0.0101
+Oct 02-Oct 04,1,49,Hotel Transylvania 2,2,48.5
+Oct 02-Oct 04,2,60,The Intern,2,17.7
+Oct 02-Oct 04,3,49,Maze Runner: The Scorch Trials,3,14.3
+Oct 02-Oct 04,4,72,Everest,3,13.2
+Oct 02-Oct 04,5,75,Black Mass,3,11
+Oct 02-Oct 04,6,62,The Visit,4,6.7
+Oct 02-Oct 04,7,19,The Perfect Guy,4,4.8
+Oct 02-Oct 04,8,36,War Room,6,4.2
+Oct 02-Oct 04,9,38,The Green Inferno,2,3.5
+Oct 02-Oct 04,10,93,Sicario,1,1.7
+Oct 02-Oct 04,11,45,A Walk In The Woods,5,1.1
+Oct 02-Oct 04,12,72,Pawn Sacrifice,2,1
+Oct 02-Oct 04,13,93,Mission: Impossible Rogue Nation,10,0.9
+Oct 02-Oct 04,14,17,Pixels,11,0.8
+Oct 02-Oct 04,15,93,Grandma,7,0.8
+Oct 02-Oct 04,16,90,Straight Outta Compton,8,0.7
+Oct 02-Oct 04,18,24,Captive,3,0.5
+Oct 02-Oct 04,19,54,Minions,13,0.4
+Oct 02-Oct 04,20,71,Jurassic World,17,0.4
+Oct 02-Oct 04,21,98,Inside Out,16,0.4
+Oct 02-Oct 04,22,80,Ant-Man,12,0.4
+Oct 02-Oct 04,23,69,Un gallo con muchos huevos,5,0.3
+Oct 02-Oct 04,24,25,90 Minutes In Heaven,4,0.3
+Oct 02-Oct 04,25,80,Veteran,3,0.2
+Oct 02-Oct 04,26,46,No Escape,6,0.2
+Oct 02-Oct 04,27,67,The Man From U.N.C.L.E.,8,0.2
+Oct 02-Oct 04,28,84,Meet The Patels,4,0.2
+Oct 02-Oct 04,29,26,Vacation,10,0.2
+Oct 02-Oct 04,30,67,Learning To Drive,7,0.2
+Oct 02-Oct 04,31,86,Trainwreck,12,0.2
+Oct 02-Oct 04,32,9,Fantastic Four,9,0.1
+Oct 02-Oct 04,33,17,The Transporter Refueled,5,0.1
+Oct 02-Oct 04,34,93,The Gift,9,0.1
+Oct 02-Oct 04,35,59,Sleeping with Other People,4,0.1
+Oct 02-Oct 04,36,9,Stonewall,2,0.1
+Oct 02-Oct 04,37,80,Goodnight Mommy,4,0.1
+Oct 02-Oct 04,38,13,Sinister 2,7,0.0966
+Oct 02-Oct 04,39,74,Avengers: Age of Ultron,23,0.0888
+Oct 02-Oct 04,40,99,Phoenix,11,0.086
+Oct 02-Oct 04,41,99,Shaun the Sheep,9,0.0805
+Oct 02-Oct 04,42,7,Hitman: Agent 47,7,0.0798
+Oct 02-Oct 04,43,50,San Andreas,19,0.0691
+Oct 02-Oct 04,44,92,Meru,8,0.0683
+Oct 02-Oct 04,45,35,Max,15,0.0606
+Oct 02-Oct 04,46,87,Mr. Holmes,12,0.048
+Oct 02-Oct 04,47,45,American Ultra,7,0.0479
+Oct 02-Oct 04,48,92,The Black Panthers: Vanguard Of The Revolution,5,0.047
+Oct 02-Oct 04,50,95,The Second Mother (Que Horas Ela Volta?),6,0.043
+Aug 28-Aug 30,1,90,Straight Outta Compton,3,26.4
+Aug 28-Aug 30,2,93,Mission: Impossible Rogue Nation,5,11.5
+Aug 28-Aug 30,3,13,Sinister 2,2,10.5
+Aug 28-Aug 30,4,7,Hitman: Agent 47,2,8.3
+Aug 28-Aug 30,5,67,The Man From U.N.C.L.E.,3,7.3
+Aug 28-Aug 30,6,45,American Ultra,2,5.5
+Aug 28-Aug 30,7,93,The Gift,4,4.3
+Aug 28-Aug 30,8,80,Ant-Man,7,4.1
+Aug 28-Aug 30,9,54,Minions,8,3.8
+Aug 28-Aug 30,10,9,Fantastic Four,4,3.7
+Aug 28-Aug 30,11,26,Vacation,5,3
+Aug 28-Aug 30,12,64,Ricki And The Flash,4,3
+Aug 28-Aug 30,13,86,Trainwreck,7,2.5
+Aug 28-Aug 30,14,17,Pixels,6,2.1
+Aug 28-Aug 30,15,98,Inside Out,11,1.6
+Aug 28-Aug 30,16,99,Shaun the Sheep,4,1.5
+Aug 28-Aug 30,17,59,Southpaw,6,1.2
+Aug 28-Aug 30,18,71,Jurassic World,12,0.9
+Aug 28-Aug 30,19,87,Mr. Holmes,7,0.6
+Aug 28-Aug 30,20,92,The End Of The Tour,5,0.6
+Aug 28-Aug 30,21,55,Paper Towns,6,0.3
+Aug 28-Aug 30,22,99,Phoenix,6,0.3
+Aug 28-Aug 30,23,50,San Andreas,14,0.3
+Aug 28-Aug 30,24,35,Max,10,0.3
+Aug 28-Aug 30,25,81,Mistress America,3,0.2
+Aug 28-Aug 30,26,26,Terminator Genisys,9,0.2
+Aug 28-Aug 30,27,86,Assassination,4,0.2
+Aug 28-Aug 30,28,42,Irrational Man,7,0.2
+Aug 28-Aug 30,29,92,Meru,3,0.2
+Aug 28-Aug 30,30,93,Spy,13,0.2
+Aug 28-Aug 30,31,95,The Diary Of A Teenage Girl,4,0.2
+Aug 28-Aug 30,32,97,Amy,9,0.1
+Aug 28-Aug 30,33,93,Grandma,2,0.1
+Aug 28-Aug 30,34,62,Magic Mike XXL,9,0.1
+Aug 28-Aug 30,35,94,Best Of Enemies,5,0.1
+Aug 28-Aug 30,36,60,Brothers,3,0.0935
+Aug 28-Aug 30,37,50,Tomorrowland,15,0.0876
+Aug 28-Aug 30,38,74,Avengers: Age of Ultron,18,0.0809
+Aug 28-Aug 30,39,97,Mad Max: Fury Road,16,0.0794
+Aug 28-Aug 30,40,67,Learning To Drive,2,0.0674
+Aug 28-Aug 30,41,46,Ted 2,10,0.0649
+Aug 28-Aug 30,42,45,Home,23,0.0494
+Aug 28-Aug 30,43,69,Kahlil Gibran's The Prophet,4,0.0487
+Aug 28-Aug 30,45,97,Listen To Me Marlon,5,0.0456
+Aug 28-Aug 30,46,16,The Gallows,8,0.0362
+Aug 28-Aug 30,47,89,Love &amp; Mercy,13,0.0267
+Aug 28-Aug 30,48,80,Infinitely Polar Bear,11,0.0254
+Aug 28-Aug 30,49,64,Digging For Fire,2,0.0245
+Aug 28-Aug 30,50,81,Me and Earl and the Dying Girl,12,0.024
+Sep 11-Sep 13,1,36,War Room,3,9.5
+Sep 11-Sep 13,2,90,Straight Outta Compton,5,8.6
+Sep 11-Sep 13,3,45,A Walk In The Woods,2,8.2
+Sep 11-Sep 13,4,17,The Transporter Refueled,2,7.4
+Sep 11-Sep 13,5,93,Mission: Impossible Rogue Nation,7,7.2
+Sep 11-Sep 13,6,46,No Escape,3,5.5
+Sep 11-Sep 13,7,67,The Man From U.N.C.L.E.,5,3.5
+Sep 11-Sep 13,8,13,Sinister 2,4,3.5
+Sep 11-Sep 13,9,69,Un gallo con muchos huevos,2,3.4
+Sep 11-Sep 13,10,98,Inside Out,13,3.2
+Sep 11-Sep 13,11,54,Minions,10,3
+Sep 11-Sep 13,12,80,Ant-Man,9,2.9
+Sep 11-Sep 13,13,71,Jurassic World,14,2.7
+Sep 11-Sep 13,14,93,The Gift,6,2.7
+Sep 11-Sep 13,15,7,Hitman: Agent 47,4,2.2
+Sep 11-Sep 13,16,17,Pixels,8,1.9
+Sep 11-Sep 13,17,86,Trainwreck,9,1.5
+Sep 11-Sep 13,18,45,American Ultra,4,1.3
+Sep 11-Sep 13,19,26,Vacation,7,1.2
+Sep 11-Sep 13,20,9,Fantastic Four,6,1.1
+Sep 11-Sep 13,21,59,Southpaw,8,1
+Sep 11-Sep 13,22,64,Ricki And The Flash,6,1
+Sep 11-Sep 13,23,99,Shaun the Sheep,6,0.9
+Sep 11-Sep 13,25,42,We Are Your Friends,3,0.6
+Sep 11-Sep 13,26,81,Mistress America,5,0.6
+Sep 11-Sep 13,27,93,Grandma,4,0.5
+Sep 11-Sep 13,28,99,Phoenix,8,0.5
+Sep 11-Sep 13,29,74,Avengers: Age of Ultron,20,0.4
+Sep 11-Sep 13,30,87,Dope,2,0.4
+Sep 11-Sep 13,31,87,Mr. Holmes,9,0.4
+Sep 11-Sep 13,32,67,Learning To Drive,4,0.4
+Sep 11-Sep 13,33,92,Meru,5,0.3
+Sep 11-Sep 13,34,50,San Andreas,16,0.2
+Sep 11-Sep 13,35,35,Max,12,0.2
+Sep 11-Sep 13,36,55,Paper Towns,8,0.2
+Sep 11-Sep 13,37,92,The End Of The Tour,7,0.2
+Sep 11-Sep 13,38,95,The Diary Of A Teenage Girl,6,0.2
+Sep 11-Sep 13,39,26,Terminator Genisys,11,0.1
+Sep 11-Sep 13,40,73,Steve Jobs: Man in the Machine,2,0.1
+Sep 11-Sep 13,41,93,Spy,15,0.1
+Sep 11-Sep 13,42,86,Assassination,6,0.1
+Sep 11-Sep 13,43,97,Amy,11,0.0941
+Sep 11-Sep 13,45,50,Tomorrowland,17,0.0801
+Sep 11-Sep 13,46,97,Mad Max: Fury Road,18,0.0619
+Sep 11-Sep 13,47,94,Best Of Enemies,7,0.0567
+Sep 11-Sep 13,48,42,Irrational Man,9,0.052
+Sep 11-Sep 13,49,95,The Second Mother (Que Horas Ela Volta?),3,0.0488
+Sep 11-Sep 13,50,16,The Gallows,10,0.0465
+Jul 17-Jul 19,1,54,Minions,2,115.7
+Jul 17-Jul 19,2,71,Jurassic World,6,18.2
+Jul 17-Jul 19,3,98,Inside Out,5,17.7
+Jul 17-Jul 19,4,26,Terminator Genisys,3,13.8
+Jul 17-Jul 19,5,16,The Gallows,2,9.8
+Jul 17-Jul 19,6,62,Magic Mike XXL,3,9.6
+Jul 17-Jul 19,7,46,Ted 2,4,5.7
+Jul 17-Jul 19,8,20,Self/less,2,5.4
+Jul 17-Jul 19,9,35,Max,4,3.5
+Jul 17-Jul 19,11,93,Spy,7,3.1
+Jul 17-Jul 19,12,97,Amy,3,1.8
+Jul 17-Jul 19,13,50,San Andreas,8,1.2
+Jul 17-Jul 19,14,81,Me and Earl and the Dying Girl,6,0.7
+Jul 17-Jul 19,15,87,Dope,,0.6
+Jul 17-Jul 19,16,97,Mad Max: Fury Road,10,0.6
+Jul 17-Jul 19,17,74,Avengers: Age of Ultron,12,0.5
+Jul 17-Jul 19,18,89,Love &amp; Mercy,7,0.4
+Jul 17-Jul 19,19,94,I'll See You in My Dreams,10,0.4
+Jul 17-Jul 19,20,67,Pitch Perfect 2,10,0.3
+Jul 17-Jul 19,21,45,Home,17,0.2
+Jul 17-Jul 19,22,50,Tomorrowland,9,0.2
+Jul 17-Jul 19,23,81,Testament Of Youth,7,0.2
+Jul 17-Jul 19,24,80,Infinitely Polar Bear,5,0.2
+Jul 17-Jul 19,25,5,Paul Blart: Mall Cop 2,14,0.1
+Jul 17-Jul 19,26,59,Insidious: Chapter 3,7,0.1
+Jul 17-Jul 19,27,82,The Overnight,5,0.1
+Jul 17-Jul 19,28,91,Cartel Land,3,0.0995
+Jul 17-Jul 19,29,84,The Wolfpack,6,0.0969
+Jul 17-Jul 19,30,85,Far From the Madding Crowd,12,0.0869
+Jul 17-Jul 19,31,10,Faith Of Our Fathers,3,0.0822
+Jul 17-Jul 19,32,19,Aloha,8,0.0782
+Jul 17-Jul 19,34,32,Entourage,7,0.0699
+Jul 17-Jul 19,35,52,Woman in Gold,16,0.0658
+Jul 17-Jul 19,36,31,Poltergeist,9,0.0624
+Jul 17-Jul 19,37,95,Tangerine,2,0.0607
+Jul 17-Jul 19,38,85,Cinderella,19,0.0595
+Jul 17-Jul 19,39,40,A Little Chaos,4,0.0555
+Jul 17-Jul 19,40,8,Hot Pursuit,11,0.0532
+Jul 17-Jul 19,41,92,Ex Machina,13,0.0438
+Jul 17-Jul 19,42,77,Jimmy's Hall,3,0.0391
+Jul 17-Jul 19,43,100,The Third Man,3438,0.0379
+Jul 17-Jul 19,44,86,Hubble 3D,279,0.0338
+Jul 17-Jul 19,45,49,Manglehorn,5,0.0233
+Jul 17-Jul 19,47,81,Batkid Begins,4,0.0193
+Jul 17-Jul 19,49,80,Island Of Lemurs: Madagascar,68,0.0178
+Jul 17-Jul 19,50,35,Strangerland,2,0.0175
